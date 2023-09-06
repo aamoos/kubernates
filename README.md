@@ -31,3 +31,7 @@ minikube ssh
 
 # ip 확인
 minikube ip
+
+# 쿠버네티스에 wordpress 설치
+~/Workspace/k8s/guide/index/docker-compose.yml 생
+
