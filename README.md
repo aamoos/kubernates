@@ -49,3 +49,5 @@ http://localhost:30000/wp-admin/install.php
 
 ![image](https://github.com/aamoos/kubernates/assets/37327676/224f07f8-6d69-43b4-8ea1-4745e30bfe2a)
 
+# wordpress-mysql을 쿠버네티스를 통해 설치 하기
+kubectl apply -f wordpress-k8s.yml
