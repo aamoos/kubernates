@@ -37,5 +37,6 @@ minikube ip
 
 ## docker-compose 실행
 - docker-compose up -d
+
 ![image](https://github.com/aamoos/kubernates/assets/37327676/a4326dd1-b08f-47d3-880b-2a8cfc9563a6)
 
