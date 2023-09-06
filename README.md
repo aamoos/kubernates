@@ -15,7 +15,7 @@ minikube version
 minikube start --driver=virtualbox
 
 ## 특정 k8s 버전 실행
-minikube start --kubernetes-version=v1.23.1
+minikube start --kubernetes-version=v1.25.1
 
 ## 상태확인
 minikube status
