@@ -44,3 +44,8 @@ minikube ip
 http://localhost:30000/wp-admin/install.php
 
 ![image](https://github.com/aamoos/kubernates/assets/37327676/f4864219-2492-491b-afb3-69418efddfb8)
+
+![image](https://github.com/aamoos/kubernates/assets/37327676/dd5998e1-3b1c-4172-a0fc-2fa241706d48)
+
+![image](https://github.com/aamoos/kubernates/assets/37327676/224f07f8-6d69-43b4-8ea1-4745e30bfe2a)
+
