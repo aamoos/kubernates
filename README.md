@@ -1,4 +1,4 @@
-# windows에서 kubernates 사용
+# windows에서 쿠버네티스 사용
 
 # virtualBox 설치
 https://www.virtualbox.org/wiki/Downloads
