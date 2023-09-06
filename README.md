@@ -40,3 +40,7 @@ minikube ip
 
 ![image](https://github.com/aamoos/kubernates/assets/37327676/a4326dd1-b08f-47d3-880b-2a8cfc9563a6)
 
+## 워드프레스 접속
+http://localhost:30000/wp-admin/install.php
+
+![image](https://github.com/aamoos/kubernates/assets/37327676/f4864219-2492-491b-afb3-69418efddfb8)
