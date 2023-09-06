@@ -33,5 +33,8 @@ minikube ssh
 minikube ip
 
 # 쿠버네티스에 wordpress 설치
-~/Workspace/k8s/guide/index/docker-compose.yml 생
+~/Workspace/k8s/guide/index/docker-compose.yml 생성
+
+# docker-compose 실행
+- docker-compose up -d
 
